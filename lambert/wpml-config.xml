@@ -1,0 +1,82 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">cth_reservation</custom-type>
+        <custom-type translate="1">member</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">cthmenu</custom-type>
+        <custom-type translate="1">cthgallery</custom-type>
+    </custom-types>
+    <admin-texts>
+        <key name="lambert_options">
+            <key name="logo">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+            </key>
+            <key name="logo2">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+            </key>
+            <key name="logo_size_width"/>
+            <key name="logo_size_height"/>
+            <key name="logo_text"/>
+            <key name="slogan"/>
+            <key name="loader_icon">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+            </key>
+
+
+            <key name="footer_info"/>
+            <key name="footer_copyright"/>
+            <key name="shopbg">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+             </key>
+
+            <key name="shop_page_intro"/>
+            <key name="gallery_home_text"/>
+            <key name="gallery_header_image">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+            </key>
+            <key name="blog_home_text"/>
+            <key name="blog_home_text_intro"/>
+            <key name="blog_header_image">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+            </key>
+
+
+
+            <key name="blog_list_link"/>
+
+            <key name="404_intro"/>
+            <key name="404_bg">
+                <key name="url"/>
+                <key name="id"/>
+                <key name="height"/>
+                <key name="width"/>
+                <key name="thumbnail"/>
+            </key>
+            
+        </key>
+    </admin-texts>
+</wpml-config>

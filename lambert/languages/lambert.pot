@@ -1,0 +1,1733 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lambert - Restaurant / Cafe / Pub WordPress Theme\n"
+"POT-Creation-Date: 2019-07-26 01:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: CTHthemes <cththemes@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;_ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: lambert\n"
+
+#: functions.php:134
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:136
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:146
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:148
+msgid "Appears in the sidebar section of the page template."
+msgstr ""
+
+#: functions.php:158
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Appears in the sidebar section on shop pages."
+msgstr ""
+
+#: functions.php:169
+msgid "Top Social Widget"
+msgstr ""
+
+#: functions.php:171
+msgid "Appears in top social widget, above main navigation menu"
+msgstr ""
+
+#: functions.php:180
+msgid "Footer Widgets Widget"
+msgstr ""
+
+#: functions.php:182
+msgid "Appears above footer contact info widget"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer Contact Info Widget"
+msgstr ""
+
+#: functions.php:193 functions.php:204
+msgid "Appears above footer copyright text"
+msgstr ""
+
+#: functions.php:202
+msgid "Footer Copyright Widget"
+msgstr ""
+
+#: functions.php:213
+msgid "OpenTable Widget"
+msgstr ""
+
+#: functions.php:215
+msgid ""
+"Please inset OpenTable widget here then use Widgetised Sidebar - Visual "
+"Composer component to insert OpenTable Reservation form to your page."
+msgstr ""
+
+#: functions.php:253
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: functions.php:254
+msgid "One Page Navigation Menu"
+msgstr ""
+
+#: functions.php:303
+msgctxt "WooCommerce thumbnail width"
+msgid "300"
+msgstr ""
+
+#: functions.php:304
+msgctxt "WooCommerce single image width"
+msgid "500"
+msgstr ""
+
+#: functions.php:441
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:444
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:447
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:450
+msgctxt "Playball font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:472
+msgid "/"
+msgstr ""
+
+#: functions.php:475
+msgid "Home"
+msgstr ""
+
+#: functions.php:476
+msgid "Our Blog"
+msgstr ""
+
+#: functions.php:643 functions.php:647 functions.php:651 functions.php:658 
+#: functions.php:662 functions.php:667
+msgid " Archives"
+msgstr ""
+
+#: functions.php:678
+msgid " Author: "
+msgstr ""
+
+#: functions.php:683
+msgid "Page"
+msgstr ""
+
+#: functions.php:688
+msgid "Search results for: "
+msgstr ""
+
+#: functions.php:693
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:718
+msgid "<i class=\"fa fa-chevron-left\"></i> "
+msgstr ""
+
+#: functions.php:718 functions.php:765
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: functions.php:757
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr ""
+
+#: functions.php:789
+msgctxt "Previous post link"
+msgid "Previous post"
+msgstr ""
+
+#: functions.php:795
+msgctxt "Next post link"
+msgid "Next post"
+msgstr ""
+
+#: functions.php:816
+msgid "Search ..."
+msgstr ""
+
+#: functions.php:860
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:862
+msgid "/ (Edit)"
+msgstr ""
+
+#: functions.php:870 includes/template-functions.php:233
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1053
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: functions.php:1068
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:1081
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:1094
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:1109
+msgid "CMB2"
+msgstr ""
+
+#: functions.php:1124
+msgid "Lambert Add-ons"
+msgstr ""
+
+#: functions.php:1140
+msgid "Loco Translate"
+msgstr ""
+
+#: functions.php:1155
+msgid "Envato Market"
+msgstr ""
+
+#: functions.php:1170
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:1183
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: shortcodes.php:174 archive-cthgallery.php:51
+msgid "All"
+msgstr ""
+
+#: 404.php:14
+msgid "<h2>Oops!</h2>"
+msgstr ""
+
+#: 404.php:15
+msgid "<h1>404</h1>"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"You can either return to the <a href=\"javascript:history.back()\">previous "
+"page</a>"
+msgstr ""
+
+#: 404.php:21
+#, php-format
+msgid " or go back <a href=\"%s\">home</a>"
+msgstr ""
+
+#: single-member.php:22 template-parts/post/content-gallery.php:72 
+#: template-parts/post/content-single.php:103 
+#: template-parts/post/content-page.php:25 template-parts/post/content.php:73 
+#: template-parts/post/content-audio.php:67 
+#: template-parts/post/content-video.php:52 
+#: template-parts/post/content-search.php:47 
+#: template-parts/post/content-quote.php:57
+msgid "Pages:"
+msgstr ""
+
+#. Name of the template
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: comments.php:48
+msgid "<i class=\"fa fa-long-arrow-left\"></i>"
+msgstr ""
+
+#: comments.php:50
+msgid "<i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:70
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:73 includes/redux-sections/gallery.php:58
+msgid "Name"
+msgstr ""
+
+#: comments.php:74
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:78
+msgid "Message"
+msgstr ""
+
+#: comments.php:82
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:84
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Name of the template
+msgid "Post No Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Page No Sidebar"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#. Name of the template
+msgid "Without Header"
+msgstr ""
+
+#. Name of the template
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: archive-cthgallery.php:96 taxonomy-cthgallery_cat.php:87
+msgid ""
+"<i class=\"fa fa-refresh fa-spin\" aria-hidden=\"true\"></i> <span>Load more "
+"galleries</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home - One Page"
+msgstr ""
+
+#. Name of the template
+msgid "Page Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: author.php:45
+msgid "About "
+msgstr ""
+
+#: author.php:52
+msgid "Follow on Twitter"
+msgstr ""
+
+#: author.php:55
+msgid "Like on Facebook"
+msgstr ""
+
+#: author.php:58
+msgid "Circle on Google Plus"
+msgstr ""
+
+#: author.php:61
+msgid "Be Friend on Linkedin"
+msgstr ""
+
+#. Name of the template
+msgid "Post Right Sidebar"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:6
+msgctxt "label"
+msgid ""
+msgstr ""
+
+#: searchform.php:7 woocommerce/product-searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:7 woocommerce/product-searchform.php:27
+msgid "<i class=\"fa fa-search transition\"></i> "
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "search product placeholder"
+msgid "Search..."
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "search product"
+msgstr ""
+
+#: includes/ajax.php:13 includes/ajax.php:87
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: includes/ajax.php:286
+msgid "Find on :"
+msgstr ""
+
+#: includes/one-click-import-data.php:8
+msgid "Full Demo Content (widgets included)"
+msgstr ""
+
+#: includes/one-click-import-data.php:11
+msgid "Lambert Theme - Full Demo Content (widgets included)."
+msgstr ""
+
+#: includes/woo-init.php:313
+msgid "Quick Overview"
+msgstr ""
+
+#: includes/woo-init.php:377
+msgid "Countinue shopping"
+msgstr ""
+
+#: includes/woo-init.php:378
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: includes/redux-configs.php:37 includes/redux-configs.php:38
+msgid "Lambert Options"
+msgstr ""
+
+#: includes/redux-configs.php:148
+msgid ""
+"<p>A <strong>\"Lambert – Responsive Restaurant / Pub / Cafe Wordpress "
+"Theme\"</strong> is perfect if you like a clean and modern design. <br>"
+"Lambert is a clean and professional wordpress theme, perfect for Restaurant, "
+"Bakery, any food business and personal chef web sites. More features with 6 "
+"Homepages (Video , Carousel , Slideshow) – one and multi page version for "
+"versions for each option.</p>"
+msgstr ""
+
+#: includes/redux-configs.php:150
+msgid ""
+"<p>A \"Lambert – Responsive Restaurant / Pub / Cafe Wordpress Theme\" is "
+"perfect if you like a clean and modern design. Lambert is a clean and "
+"professional wordpress theme, perfect for Restaurant, Bakery, any food "
+"business and personal chef web sites. More features with 6 Homepages (Video ,"
+" Carousel , Slideshow) – one and multi page version for versions for each "
+"option."
+msgstr ""
+
+#: includes/redux-configs.php:154
+msgid ""
+"Thanks all of you who stay with us, your co-operation is our inspiration."
+msgstr ""
+
+#: includes/redux-configs.php:324
+msgid "Section via hook"
+msgstr ""
+
+#: includes/redux-configs.php:325
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/template-functions.php:224
+msgid "F j, Y g:i a"
+msgstr ""
+
+#: includes/back-compat.php:37 includes/back-compat.php:49 
+#: includes/back-compat.php:64
+#, php-format
+msgid ""
+"Lambert requires at least WordPress version 5.0. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:393 
+#: lib/class-tgm-plugin-activation.php:912 
+#: lib/class-tgm-plugin-activation.php:2626 
+#: lib/class-tgm-plugin-activation.php:3689
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394 
+#: lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395 
+#: lib/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019 
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1206 
+#: lib/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3612
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3616
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3618 
+#: lib/class-tgm-plugin-activation.php:3626
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3618 
+#: lib/class-tgm-plugin-activation.php:3626
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3619
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3621
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3627
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/redux-sections/404.php:5
+msgid "404 Page"
+msgstr ""
+
+#: includes/redux-sections/404.php:15
+msgid "404 Background"
+msgstr ""
+
+#: includes/redux-sections/404.php:18
+msgid "This image will be used for background image in 404 page."
+msgstr ""
+
+#: includes/redux-sections/404.php:25
+msgid "404 Page Message"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:5
+msgid "Blog Single"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:13 
+#: includes/redux-sections/blog-single.php:21 
+#: includes/redux-sections/blog-single.php:29 
+#: includes/redux-sections/blog-single.php:37 
+#: includes/redux-sections/blog-single.php:45 
+#: includes/redux-sections/blog-single.php:53 
+#: includes/redux-sections/blog-single.php:61 
+#: includes/redux-sections/blog-single.php:70 
+#: includes/redux-sections/blog-single.php:80 
+#: includes/redux-sections/blog-single.php:90 
+#: includes/redux-sections/blog-single.php:98 
+#: includes/redux-sections/gallery.php:46 
+#: includes/redux-sections/gallery.php:133 
+#: includes/redux-sections/gallery.php:142 
+#: includes/redux-sections/gallery.php:159 
+#: includes/redux-sections/thumbnails.php:18 
+#: includes/redux-sections/blog.php:90 includes/redux-sections/blog.php:99 
+#: includes/redux-sections/blog.php:108 includes/redux-sections/blog.php:117 
+#: includes/redux-sections/blog.php:127 includes/redux-sections/blog.php:137
+msgid "Yes"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:14 
+#: includes/redux-sections/blog-single.php:22 
+#: includes/redux-sections/blog-single.php:30 
+#: includes/redux-sections/blog-single.php:38 
+#: includes/redux-sections/blog-single.php:46 
+#: includes/redux-sections/blog-single.php:54 
+#: includes/redux-sections/blog-single.php:62 
+#: includes/redux-sections/blog-single.php:71 
+#: includes/redux-sections/blog-single.php:81 
+#: includes/redux-sections/blog-single.php:91 
+#: includes/redux-sections/blog-single.php:99 
+#: includes/redux-sections/gallery.php:47 
+#: includes/redux-sections/gallery.php:134 
+#: includes/redux-sections/gallery.php:143 
+#: includes/redux-sections/gallery.php:160 
+#: includes/redux-sections/thumbnails.php:19 
+#: includes/redux-sections/blog.php:91 includes/redux-sections/blog.php:100 
+#: includes/redux-sections/blog.php:109 includes/redux-sections/blog.php:118 
+#: includes/redux-sections/blog.php:128 includes/redux-sections/blog.php:138
+msgid "No"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:15
+msgid "Show Single Post Header"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:23
+msgid "Show Featured Image on single post page"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:31 
+#: includes/redux-sections/blog.php:92
+msgid "Show Author"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:39 
+#: includes/redux-sections/blog.php:101
+msgid "Show Date"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:47 
+#: includes/redux-sections/blog.php:119
+msgid "Show Categories"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:55 
+#: includes/redux-sections/blog.php:129
+msgid "Show Comments"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:63 
+#: includes/redux-sections/blog.php:139
+msgid "Show Tags"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:72
+msgid "Show Like post"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:82
+msgid "Show Author Block on single post page"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:92
+msgid "Show posts navigation"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:100
+msgid "Next/Prev posts should be in same category"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:108
+msgid "Blog List Link"
+msgstr ""
+
+#: includes/redux-sections/blog-single.php:109
+msgid "Link for blog list icon on single blog post page."
+msgstr ""
+
+#: includes/redux-sections/colors.php:5
+msgid "Styling Options"
+msgstr ""
+
+#: includes/redux-sections/colors.php:15
+msgid "Theme Color"
+msgstr ""
+
+#: includes/redux-sections/colors.php:16 includes/redux-sections/colors.php:17
+msgid "Select your theme color"
+msgstr ""
+
+#: includes/redux-sections/colors.php:56
+msgid "Use Your Own"
+msgstr ""
+
+#: includes/redux-sections/colors.php:57
+msgid "Set this to <b>Yes</b> if you want to use color variants bellow."
+msgstr ""
+
+#: includes/redux-sections/colors.php:64
+msgid "Theme Skin Color"
+msgstr ""
+
+#: includes/redux-sections/colors.php:67
+msgid "Pick the primary color for the theme (default: #C59D5F)."
+msgstr ""
+
+#: includes/redux-sections/colors.php:75
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/redux-sections/colors.php:78
+msgid "Footer Background Color (default: #191919)."
+msgstr ""
+
+#: includes/redux-sections/colors.php:86
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: includes/redux-sections/colors.php:89
+msgid "Footer Copyright Background Color (default: #262526)."
+msgstr ""
+
+#: includes/redux-sections/colors.php:97
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/redux-sections/colors.php:100
+msgid "Overlay Background Color (default: #000)."
+msgstr ""
+
+#: includes/redux-sections/gallery.php:5
+msgid "Gallery"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:15
+msgid "Gallery Heading Text"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:24
+msgid "Gallery Header Image"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:32
+msgid "Gallery Columns"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:48
+msgid "Show Filter"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:54
+msgid "Order Filter By"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:56
+msgid "ID"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:57
+msgid "Count"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:59
+msgid "Slug"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:60 
+#: includes/redux-sections/gallery.php:88 
+#: includes/redux-sections/gallery.php:120
+msgid "None"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:67 
+#: includes/redux-sections/gallery.php:103
+msgid "Sort order"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:69 
+#: includes/redux-sections/gallery.php:107
+msgid "Ascending"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:70 
+#: includes/redux-sections/gallery.php:106
+msgid "Descending"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:77 includes/redux-sections/shop.php:56
+msgid "Posts per page"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:78
+msgid "Number of galleries to show per page, -1 to show all posts."
+msgstr ""
+
+#: includes/redux-sections/gallery.php:85
+msgid "Order Galleries By"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:89
+msgid "Post ID"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:90
+msgid "Post Author"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:91
+msgid "Post title"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:92
+msgid "Post name (post slug)"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:93
+msgid "Created Date"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:94
+msgid "Last modified date"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:95
+msgid "Post Parent id"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:96
+msgid "Random"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:116
+msgid "Spacing"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:117
+msgid "The space between gallery grid items."
+msgstr ""
+
+#: includes/redux-sections/gallery.php:121
+msgid "Extra Small"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:122
+msgid "Small"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:123
+msgid "Medium"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:124
+msgid "Big"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:135
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:144
+msgid "Show Load More"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:151
+msgid "Loadmore items"
+msgstr ""
+
+#: includes/redux-sections/gallery.php:152
+msgid "Number of gallery items to loadmore."
+msgstr ""
+
+#: includes/redux-sections/gallery.php:161
+msgid "Enable Image Gallery on Gallery Grid"
+msgstr ""
+
+#: includes/redux-sections/mailchimp.php:5
+msgid "MailChimp Subscribe"
+msgstr ""
+
+#: includes/redux-sections/mailchimp.php:14
+msgid "Mailchimp API key"
+msgstr ""
+
+#: includes/redux-sections/mailchimp.php:21
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: includes/redux-sections/mailchimp.php:29
+msgid "Subscribe Shortcode"
+msgstr ""
+
+#: includes/redux-sections/mailchimp.php:33
+msgid ""
+"Use the <code><strong>[lambert_mailchimp]</strong></code> shortcode  to "
+"display subscribe form inside a post, page or text widget.\n"
+"<br>Available Variables:<br>\n"
+"<strong>listid</strong> - your MailChimp list id or ignore it to use default "
+"from option above<br>\n"
+"<strong>placeholder</strong>=\"Your email address..\"<br>\n"
+"<strong>button</strong>=\"Sign up now\"<br>\n"
+"<strong>class</strong>=\"your_extra_class_to_style_the_form\""
+msgstr ""
+
+#: includes/redux-sections/custom-code.php:5
+msgid "Custom Code"
+msgstr ""
+
+#: includes/redux-sections/custom-code.php:15
+msgid "CSS Code - Large Desktop View"
+msgstr ""
+
+#: includes/redux-sections/custom-code.php:16 
+#: includes/redux-sections/custom-code.php:27 
+#: includes/redux-sections/custom-code.php:37 
+#: includes/redux-sections/custom-code.php:47
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: includes/redux-sections/custom-code.php:26
+msgid "CSS Code - Medium Desktop View"
+msgstr ""
+
+#: includes/redux-sections/custom-code.php:36
+msgid "CSS Code - Tablet View"
+msgstr ""
+
+#: includes/redux-sections/custom-code.php:46
+msgid "CSS Code - Mobile View"
+msgstr ""
+
+#: includes/redux-sections/shop.php:5
+msgid "Shop Settings"
+msgstr ""
+
+#: includes/redux-sections/shop.php:15
+msgid "Shop Header Background"
+msgstr ""
+
+#: includes/redux-sections/shop.php:18
+msgid "Upload your Shop Header Background."
+msgstr ""
+
+#: includes/redux-sections/shop.php:34
+msgid "Shop Introtext"
+msgstr ""
+
+#: includes/redux-sections/shop.php:57
+msgid "Number of post to show per page, -1 to show all posts."
+msgstr ""
+
+#: includes/redux-sections/shop.php:66
+msgid "Shop Archive Columns Grid"
+msgstr ""
+
+#: includes/redux-sections/shop.php:76
+msgid "Shop Archive Columns Grid (for tablet horizontal view)"
+msgstr ""
+
+#: includes/redux-sections/shop.php:86
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/redux-sections/shop.php:96
+msgid "Related Products Count"
+msgstr ""
+
+#: includes/redux-sections/shop.php:106
+msgid "Show Shop Breadcrumbs"
+msgstr ""
+
+#: includes/redux-sections/shop.php:107
+msgid "Set this to On to show shop page breadcrumbs."
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:5
+msgid "Media"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:8
+msgid ""
+"<p>These settings affect the display and dimensions of images in your pages."
+"</p>\n"
+"        <p><em> Enter 9999 as Width value and uncheck Hard Crop to make your "
+"thumbnail dynamic width.</em></p>\n"
+"        <p><em> Enter 9999 as Height value and uncheck Hard Crop to make "
+"your thumbnail dynamic height.</em></p>\n"
+"        <p><em> Enter 9999 as Width and Height values to use full size image."
+"</em></p>\n"
+"After changing these settings you may need to "
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:20
+msgid "Enable Custom Image Sizes"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:40
+msgid "Portfolio Masonry Size One"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:41
+msgid "Demo: Width - 367, Height - 230, Hard crop - checked"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:51
+msgid "Portfolio Masonry Size Two"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:52
+msgid "Demo: Width - 753, Height - 470, Hard crop - checked"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:63
+msgid "Portfolio Masonry Size Three"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:64
+msgid "Demo: Width - 1141, Height - 710, Hard crop - checked"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:78
+msgid "Member Thumbnail Size"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:79
+msgid "Demo: Width - 160, Height - 160, Hard crop - checked"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:93
+msgid "Blog Thumbnail Size"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:94 
+#: includes/redux-sections/thumbnails.php:106
+msgid "Demo: Width - 750, Height - 469, Hard crop - checked"
+msgstr ""
+
+#: includes/redux-sections/thumbnails.php:105
+msgid "Blog Single Size"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:5
+msgid "Fonts"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:16
+msgid "Body Font"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:17
+msgid ""
+"Specify the body font properties.</br> Default</br>font-family: Source Sans "
+"Pro</br>font-size: 12px</br>line-height: 24px</br>font-weight: 400</br>color:"
+" #000000"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:31
+msgid "Paragraph Font"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:32
+msgid ""
+"Specify paragraph font properties. Default</br>font-family: Source Sans "
+"Pro</br>font-size: 16px</br>line-height: 24px</br>font-weight: 400</br>color:"
+" #000000"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:44
+msgid "Title-Header Font"
+msgstr ""
+
+#: includes/redux-sections/fonts.php:45
+msgid ""
+"Specify the title and heading font properties.</br> Default</br>font-family: "
+"Source Sans Pro</br>color: #000000"
+msgstr ""
+
+#: includes/redux-sections/blog.php:5
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/redux-sections/blog.php:14
+msgid "Blog Heading Text"
+msgstr ""
+
+#: includes/redux-sections/blog.php:22
+msgid "Blog Intro Text"
+msgstr ""
+
+#: includes/redux-sections/blog.php:31
+msgid "Blog Header Image"
+msgstr ""
+
+#: includes/redux-sections/blog.php:34
+msgid "Upload your blog header image"
+msgstr ""
+
+#: includes/redux-sections/blog.php:42
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/redux-sections/blog.php:43
+msgid "Select main content and sidebar layout."
+msgstr ""
+
+#: includes/redux-sections/blog.php:68
+msgid "Blog Sidebar Width"
+msgstr ""
+
+#: includes/redux-sections/blog.php:69
+msgid "Based on Bootstrap 12 columns."
+msgstr ""
+
+#: includes/redux-sections/blog.php:71
+msgid "2 Columns"
+msgstr ""
+
+#: includes/redux-sections/blog.php:72
+msgid "3 Columns"
+msgstr ""
+
+#: includes/redux-sections/blog.php:73
+msgid "4 Columns"
+msgstr ""
+
+#: includes/redux-sections/blog.php:74
+msgid "5 Columns"
+msgstr ""
+
+#: includes/redux-sections/blog.php:75
+msgid "6 Columns"
+msgstr ""
+
+#: includes/redux-sections/blog.php:83
+msgid "Blog Breadcrumbs"
+msgstr ""
+
+#: includes/redux-sections/blog.php:84
+msgid "Set this to On to show blog page breadcrumbs."
+msgstr ""
+
+#: includes/redux-sections/blog.php:110
+msgid "Show Like Post"
+msgstr ""
+
+#: includes/redux-sections/footer.php:5
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/redux-sections/footer.php:15 includes/redux-sections/footer.php:19
+msgid "Footer Info"
+msgstr ""
+
+#: includes/redux-sections/footer.php:36 includes/redux-sections/footer.php:40
+msgid "Footer Copyright"
+msgstr ""
+
+#: includes/redux-sections/general.php:6
+msgid "General Settings"
+msgstr ""
+
+#: includes/redux-sections/general.php:16
+msgid "Custom Favicon"
+msgstr ""
+
+#: includes/redux-sections/general.php:19
+msgid "Upload your Favicon."
+msgstr ""
+
+#: includes/redux-sections/general.php:27
+msgid "Main Logo"
+msgstr ""
+
+#: includes/redux-sections/general.php:30
+msgid "Upload your main logo."
+msgstr ""
+
+#: includes/redux-sections/general.php:38
+msgid "Secondary Logo"
+msgstr ""
+
+#: includes/redux-sections/general.php:41
+msgid "Upload your secondary logo."
+msgstr ""
+
+#: includes/redux-sections/general.php:48
+msgid "Logo Size Width"
+msgstr ""
+
+#: includes/redux-sections/general.php:56
+msgid "Logo Size Height"
+msgstr ""
+
+#: includes/redux-sections/general.php:64
+msgid "Logo Text"
+msgstr ""
+
+#: includes/redux-sections/general.php:72
+msgid "Slogan (Sub Logo Text)"
+msgstr ""
+
+#: includes/redux-sections/general.php:80
+msgid "Show animation loadder"
+msgstr ""
+
+#: includes/redux-sections/general.php:81
+msgid "Show animation loader"
+msgstr ""
+
+#: includes/redux-sections/general.php:90
+msgid "Loader Image Icon"
+msgstr ""
+
+#: includes/redux-sections/general.php:92
+msgid "Upload your loader image icon."
+msgstr ""
+
+#: includes/redux-sections/general.php:117
+msgid "Google Map API Key"
+msgstr ""
+
+#: includes/redux_add_fields/field_thumbnail_size.php:76
+msgid "Width "
+msgstr ""
+
+#: includes/redux_add_fields/field_thumbnail_size.php:77
+msgid "Width"
+msgstr ""
+
+#: includes/redux_add_fields/field_thumbnail_size.php:92
+msgid "Height "
+msgstr ""
+
+#: includes/redux_add_fields/field_thumbnail_size.php:93
+msgid "Height"
+msgstr ""
+
+#: includes/redux_add_fields/field_thumbnail_size.php:110
+msgid "Hard Crop "
+msgstr ""
+
+#: template-parts/post/content-gallery.php:10 
+#: template-parts/post/content-single.php:11 
+#: template-parts/post/content.php:11 template-parts/post/content-audio.php:10 
+#: template-parts/post/content-video.php:10 
+#: template-parts/post/content-search.php:10 
+#: template-parts/post/content-quote.php:16
+msgid "<i class=\"fa fa-calendar\"></i> "
+msgstr ""
+
+#: template-parts/post/content-gallery.php:13 
+#: template-parts/post/content-single.php:14 
+#: template-parts/post/content.php:14 template-parts/post/content-audio.php:13 
+#: template-parts/post/content-video.php:13 
+#: template-parts/post/content-search.php:13 
+#: template-parts/post/content-quote.php:19
+msgid "<i class=\"fa fa-comments-o\"></i> "
+msgstr ""
+
+#: template-parts/post/content-gallery.php:13 
+#: template-parts/post/content-single.php:14 
+#: template-parts/post/content.php:14 template-parts/post/content-audio.php:13 
+#: template-parts/post/content-video.php:13 
+#: template-parts/post/content-search.php:13 
+#: template-parts/post/content-quote.php:19
+msgid "0"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:13 
+#: template-parts/post/content-single.php:14 
+#: template-parts/post/content.php:14 template-parts/post/content-audio.php:13 
+#: template-parts/post/content-video.php:13 
+#: template-parts/post/content-search.php:13 
+#: template-parts/post/content-quote.php:19
+msgid "1"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:13 
+#: template-parts/post/content-single.php:14 
+#: template-parts/post/content.php:14 template-parts/post/content-audio.php:13 
+#: template-parts/post/content-video.php:13 
+#: template-parts/post/content-search.php:13 
+#: template-parts/post/content-quote.php:19
+msgid "%"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:21 
+#: template-parts/post/content-single.php:22 
+#: template-parts/post/content.php:22 template-parts/post/content-audio.php:21 
+#: template-parts/post/content-video.php:21 
+#: template-parts/post/content-search.php:21 
+#: template-parts/post/content-quote.php:27
+msgid "<i class=\"fa fa-file-o\"></i> "
+msgstr ""
+
+#: template-parts/post/content-gallery.php:27 
+#: template-parts/post/content-single.php:28 
+#: template-parts/post/content.php:28 template-parts/post/content-audio.php:27 
+#: template-parts/post/content-video.php:27 
+#: template-parts/post/content-search.php:27 
+#: template-parts/post/content-quote.php:33
+msgid "<i class=\"fa fa-user\"></i> "
+msgstr ""
+
+#: template-parts/post/content-gallery.php:68 
+#: template-parts/post/content-page.php:20 template-parts/post/content.php:69 
+#: template-parts/post/content-audio.php:63 
+#: template-parts/post/content-video.php:48 
+#: template-parts/post/content-search.php:43 
+#: template-parts/post/content-quote.php:53
+msgid "Edit"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:80 
+#: template-parts/post/content.php:81 template-parts/post/content-audio.php:75 
+#: template-parts/post/content-video.php:60 
+#: template-parts/post/content-search.php:55 
+#: template-parts/post/content-quote.php:65
+msgid "Continue reading ..."
+msgstr ""
+
+#: template-parts/post/content-single.php:129
+msgid "Posts by "
+msgstr ""
+
+#: template-parts/post/content-none.php:6
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: template-parts/post/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/post/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Name of the theme
+msgid "Lambert"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A \"Lambert – Responsive Restaurant / Pub / Cafe Wordpress Theme\" is "
+"perfect if you like a clean and modern design. Lambert is a clean and "
+"professional theme, perfect for Restaurant, Bakery, any food business and "
+"personal chef web sites. More features with 6 Homepages (Video , Carousel , "
+"Slideshow) – one and multi page version for versions for each option."
+msgstr ""
+
+#. URI of the theme
+msgid "https://demowp.cththemes.com/lambert/"
+msgstr ""
+
+#. Author of the theme
+msgid "CTHthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/cththemes"
+msgstr ""
